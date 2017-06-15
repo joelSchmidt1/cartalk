@@ -1,0 +1,21 @@
+codes,P00XX,Fuel and Air Metering and Auxiliary Emission Controls
+codes,P01XX,Fuel and Air Issues
+codes,P02XX,Fuel and Air Merering
+codes,P03XX,Ignition System or Misfire
+codes,P04XX,Auxiliary Emission Controls
+codes,P05XX,Vehicle Speed, Idle Control, and Auxiliary Inputs
+codes,P06XX, Computer and Auxiliary Outputs
+codes,P07XX, Transmission
+codes,P08XX, Transmission
+codes,P09XX, Transmission
+codes,P0AXX, Hybrid Propulsion
+codes,P10XX, Manufacturer Controlled Fuel and Air Metering and Auxiliary Emission Controls
+codes,P11XX, Manufacturer Controlled Fuel and Air Issues
+codes,P12XX, Fuel and Air Metering
+codes,P13XX, Ignition System or Misfire
+codes,P14XX, Auxiliary Emission Controls
+codes,P15XX, "Vehicle Speed, Idle Control, and Auxiliary Inputs"
+codes,P16XX, Computer and Auxiliary Outputs
+codes,P17XX, Transmission
+codes,P18XX, Transmission
+codes,P19XX, Transmission
