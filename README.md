@@ -1,2 +1,2 @@
 # cartalk
-In progress. Chatbot for talking car.
+In progress. Made for reading OBD2 data and chatting about the issues.
